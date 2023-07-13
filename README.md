@@ -1,0 +1,2 @@
+# SpecificPlatformPkg
+Platform package
